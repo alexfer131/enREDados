@@ -1,0 +1,9 @@
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\bin\Debug\Cliente.exe
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.exe
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Cliente\obj\Debug\Cliente.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\bin\Debug\Servidor.exe
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.exe
+C:\Users\Alexis\source\repos\PROYECTO REDES II\Servidor\obj\Debug\Servidor.pdb
